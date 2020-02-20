@@ -49,7 +49,7 @@ jobs:
         app-name: atbaggajava
         # If your function app project is not located in your repository's root
         # Please consider prefixing the project path in this package parameter
-        package: ./../SampleFunctionappJava/target/azure-functions/functionatbaggajava
+        package: ./../SampleFunctionappJava/target/azure-functions/SampleFunctionappJava-1582114654447
         # If you want to use publish profile credentials instead of Azure Service Principal
         # Please uncomment the following line
         # publish-profile: ${{ secrets.SCM_CREDENTIALS }}
